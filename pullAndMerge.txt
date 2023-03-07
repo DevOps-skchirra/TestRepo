@@ -1,1 +1,2 @@
 this file is for pull and then used for merge
+typing some text for merge
