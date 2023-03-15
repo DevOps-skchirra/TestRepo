@@ -1,2 +1,0 @@
-this file is for pull and then used for fetch + merge
-typing some text for fetch and merge see diagram for clarity repo to index fetch then index to Dev merge
